@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 25,
+  "buildName" : "ICICIHFC UAO #25",
+  "buildUrl" : "http://localhost:8080/job/ICICIHFC%20UAO/25/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/ICICIHFC%20UAO/25/allure"
+} ]

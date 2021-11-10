@@ -1,0 +1,1337 @@
+2021-10-18 17:48:19,126 : INFO : test_create_new_application : Enter Username
+2021-10-18 17:48:19,404 : INFO : test_create_new_application : Enter Password
+2021-10-18 17:48:19,571 : INFO : test_create_new_application : Click Login button
+2021-10-18 17:48:28,781 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-18 17:48:29,035 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-18 17:48:29,200 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-18 17:48:29,343 : INFO : test_create_new_application : Choose Customer type
+2021-10-18 17:48:29,426 : INFO : test_create_new_application : Choose branch
+2021-10-18 17:48:29,514 : INFO : test_create_new_application : Choose Location
+2021-10-18 17:48:29,621 : INFO : test_create_new_application : Choose Search Location
+2021-10-18 17:48:30,809 : INFO : test_create_new_application : Choose searched location
+2021-10-18 17:48:31,010 : INFO : test_create_new_application : Choose Broker
+2021-10-18 17:48:31,140 : INFO : test_create_new_application : Choose Search Broker
+2021-10-18 17:48:32,301 : INFO : test_create_new_application : Choose searched Broker
+2021-10-18 17:48:57,907 : INFO : test_create_new_application : Click Logout
+2021-10-18 17:49:13,437 : INFO : test_list : Enter Applicant Name
+2021-10-18 17:49:13,632 : INFO : test_list : Enter Applicant Email ID
+2021-10-18 17:49:13,761 : INFO : test_list : Enter Applican Mobile Number
+2021-10-18 17:49:13,873 : INFO : test_list : Choose Applicant type as Individual
+2021-10-18 17:49:13,958 : INFO : test_list : Get list of branches
+2021-10-18 17:49:14,026 : INFO : test_list : Choose Branch as Thane-B
+2021-10-18 17:49:14,114 : INFO : test_list : Get List of searched locations
+2021-10-18 17:49:14,894 : INFO : test_list : Choose Anand Nagar Location
+2021-10-18 17:49:15,095 : INFO : test_list : Get list of Brokers
+2021-10-18 17:49:15,756 : INFO : test_list : Choose AK2010202 broker
+2021-10-18 17:49:16,336 : INFO : test_list : Click Logout
+2021-10-18 17:49:23,637 : INFO : test_login : Enter Username
+2021-10-18 17:49:23,828 : INFO : test_login : Enter Password
+2021-10-18 17:49:23,977 : INFO : test_login : Click Login button
+2021-10-18 17:49:29,054 : INFO : test_login : Click Logout
+2021-10-18 17:49:31,563 : INFO : test_login : Enter Username
+2021-10-18 17:49:31,722 : INFO : test_login : Enter Password
+2021-10-18 17:49:31,821 : INFO : test_login : Click Login button
+2021-10-18 17:49:32,414 : INFO : test_login : Enter Username
+2021-10-18 17:49:32,619 : INFO : test_login : Enter Password
+2021-10-18 17:49:32,788 : INFO : test_login : Click Login button
+2021-10-18 17:49:33,283 : INFO : test_login : Enter Username
+2021-10-18 17:49:33,434 : INFO : test_login : Enter Password
+2021-10-18 17:49:33,559 : INFO : test_login : Click Login button
+2021-10-18 17:49:34,666 : INFO : test_login : Enter Username
+2021-10-18 17:49:34,838 : INFO : test_login : Enter Password
+2021-10-18 17:49:34,965 : INFO : test_login : Click Login button
+2021-10-18 17:49:35,526 : INFO : test_login : Enter Username
+2021-10-18 17:49:35,750 : INFO : test_login : Enter Password
+2021-10-18 17:49:35,909 : INFO : test_login : Click Login button
+2021-10-18 17:49:42,363 : INFO : test_new_application : Enter Username
+2021-10-18 17:49:42,583 : INFO : test_new_application : Enter Password
+2021-10-18 17:49:42,730 : INFO : test_new_application : Click Login button
+2021-10-18 17:49:51,983 : INFO : test_new_application : Click Logout
+2021-10-18 18:48:28,117 : INFO : test_create_new_application : Enter Username
+2021-10-18 18:48:28,294 : INFO : test_create_new_application : Enter Password
+2021-10-18 18:48:28,447 : INFO : test_create_new_application : Click Login button
+2021-10-18 18:49:01,413 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-18 18:49:01,590 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-18 18:49:01,751 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-18 18:49:01,890 : INFO : test_create_new_application : Choose Customer type
+2021-10-18 18:49:01,975 : INFO : test_create_new_application : Choose branch
+2021-10-18 18:49:02,061 : INFO : test_create_new_application : Choose Location
+2021-10-18 18:49:02,155 : INFO : test_create_new_application : Choose Search Location
+2021-10-18 18:49:03,293 : INFO : test_create_new_application : Choose searched location
+2021-10-18 18:49:03,375 : INFO : test_create_new_application : Choose Broker
+2021-10-18 18:49:03,440 : INFO : test_create_new_application : Choose Search Broker
+2021-10-18 18:49:04,072 : INFO : test_create_new_application : Choose searched Broker
+2021-10-18 18:49:27,916 : INFO : test_create_new_application : Click Logout
+2021-10-18 18:49:43,396 : INFO : test_list : Enter Applicant Name
+2021-10-18 18:49:43,537 : INFO : test_list : Enter Applicant Email ID
+2021-10-18 18:49:43,659 : INFO : test_list : Enter Applican Mobile Number
+2021-10-18 18:49:43,797 : INFO : test_list : Choose Applicant type as Individual
+2021-10-18 18:49:43,881 : INFO : test_list : Get list of branches
+2021-10-18 18:49:43,946 : INFO : test_list : Choose Branch as Thane-B
+2021-10-18 18:49:44,027 : INFO : test_list : Get List of searched locations
+2021-10-18 18:49:44,735 : INFO : test_list : Choose Anand Nagar Location
+2021-10-18 18:49:44,880 : INFO : test_list : Get list of Brokers
+2021-10-18 18:49:45,538 : INFO : test_list : Choose AK2010202 broker
+2021-10-18 18:49:45,767 : INFO : test_list : Click Logout
+2021-10-18 18:49:52,912 : INFO : test_login : Enter Username
+2021-10-18 18:49:53,101 : INFO : test_login : Enter Password
+2021-10-18 18:49:53,246 : INFO : test_login : Click Login button
+2021-10-18 18:50:00,293 : INFO : test_login : Click Logout
+2021-10-18 18:50:02,748 : INFO : test_login : Enter Username
+2021-10-18 18:50:02,932 : INFO : test_login : Enter Password
+2021-10-18 18:50:03,047 : INFO : test_login : Click Login button
+2021-10-18 18:50:03,530 : INFO : test_login : Enter Username
+2021-10-18 18:50:03,670 : INFO : test_login : Enter Password
+2021-10-18 18:50:03,780 : INFO : test_login : Click Login button
+2021-10-18 18:50:04,276 : INFO : test_login : Enter Username
+2021-10-18 18:50:04,429 : INFO : test_login : Enter Password
+2021-10-18 18:50:04,564 : INFO : test_login : Click Login button
+2021-10-18 18:50:05,425 : INFO : test_login : Enter Username
+2021-10-18 18:50:05,587 : INFO : test_login : Enter Password
+2021-10-18 18:50:05,707 : INFO : test_login : Click Login button
+2021-10-18 18:50:06,222 : INFO : test_login : Enter Username
+2021-10-18 18:50:06,370 : INFO : test_login : Enter Password
+2021-10-18 18:50:06,503 : INFO : test_login : Click Login button
+2021-10-18 18:50:12,045 : INFO : test_new_application : Enter Username
+2021-10-18 18:50:12,244 : INFO : test_new_application : Enter Password
+2021-10-18 18:50:12,394 : INFO : test_new_application : Click Login button
+2021-10-18 18:50:19,993 : INFO : test_new_application : Click Logout
+2021-10-18 18:54:26,022 : INFO : test_create_new_application : Enter Username
+2021-10-18 18:54:26,206 : INFO : test_create_new_application : Enter Password
+2021-10-18 18:54:26,361 : INFO : test_create_new_application : Click Login button
+2021-10-18 18:55:07,656 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-18 18:55:07,874 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-18 18:55:08,021 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-18 18:55:08,152 : INFO : test_create_new_application : Choose Customer type
+2021-10-18 18:55:08,251 : INFO : test_create_new_application : Choose branch
+2021-10-18 18:55:08,335 : INFO : test_create_new_application : Choose Location
+2021-10-18 18:55:08,402 : INFO : test_create_new_application : Choose Search Location
+2021-10-18 18:55:09,532 : INFO : test_create_new_application : Choose searched location
+2021-10-18 18:55:09,603 : INFO : test_create_new_application : Choose Broker
+2021-10-18 18:55:09,662 : INFO : test_create_new_application : Choose Search Broker
+2021-10-18 18:55:11,305 : INFO : test_create_new_application : Choose searched Broker
+2021-10-18 18:55:34,411 : INFO : test_create_new_application : Click Logout
+2021-10-18 18:55:46,863 : INFO : test_list : Enter Applicant Name
+2021-10-18 18:55:46,997 : INFO : test_list : Enter Applicant Email ID
+2021-10-18 18:55:47,116 : INFO : test_list : Enter Applican Mobile Number
+2021-10-18 18:55:47,219 : INFO : test_list : Choose Applicant type as Individual
+2021-10-18 18:55:47,308 : INFO : test_list : Get list of branches
+2021-10-18 18:55:47,380 : INFO : test_list : Choose Branch as Thane-B
+2021-10-18 18:55:47,471 : INFO : test_list : Get List of searched locations
+2021-10-18 18:55:48,206 : INFO : test_list : Choose Anand Nagar Location
+2021-10-18 18:55:48,354 : INFO : test_list : Get list of Brokers
+2021-10-18 18:55:48,995 : INFO : test_list : Choose AK2010202 broker
+2021-10-18 18:55:49,225 : INFO : test_list : Click Logout
+2021-10-18 18:55:55,863 : INFO : test_login : Enter Username
+2021-10-18 18:55:56,043 : INFO : test_login : Enter Password
+2021-10-18 18:55:56,206 : INFO : test_login : Click Login button
+2021-10-18 18:56:02,935 : INFO : test_login : Click Logout
+2021-10-18 18:56:05,181 : INFO : test_login : Enter Username
+2021-10-18 18:56:05,372 : INFO : test_login : Enter Password
+2021-10-18 18:56:05,503 : INFO : test_login : Click Login button
+2021-10-18 18:56:06,092 : INFO : test_login : Enter Username
+2021-10-18 18:56:06,230 : INFO : test_login : Enter Password
+2021-10-18 18:56:06,358 : INFO : test_login : Click Login button
+2021-10-18 18:56:06,812 : INFO : test_login : Enter Username
+2021-10-18 18:56:06,968 : INFO : test_login : Enter Password
+2021-10-18 18:56:07,095 : INFO : test_login : Click Login button
+2021-10-18 18:56:07,989 : INFO : test_login : Enter Username
+2021-10-18 18:56:08,145 : INFO : test_login : Enter Password
+2021-10-18 18:56:08,259 : INFO : test_login : Click Login button
+2021-10-18 18:56:08,774 : INFO : test_login : Enter Username
+2021-10-18 18:56:08,926 : INFO : test_login : Enter Password
+2021-10-18 18:56:09,060 : INFO : test_login : Click Login button
+2021-10-18 18:56:14,786 : INFO : test_new_application : Enter Username
+2021-10-18 18:56:14,968 : INFO : test_new_application : Enter Password
+2021-10-18 18:56:15,118 : INFO : test_new_application : Click Login button
+2021-10-18 18:56:22,019 : INFO : test_new_application : Click Logout
+2021-10-18 19:02:47,190 : INFO : test_create_new_application : Enter Username
+2021-10-18 19:02:47,377 : INFO : test_create_new_application : Enter Password
+2021-10-18 19:02:47,525 : INFO : test_create_new_application : Click Login button
+2021-10-18 19:02:56,053 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-18 19:02:56,267 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-18 19:02:56,418 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-18 19:02:56,572 : INFO : test_create_new_application : Choose Customer type
+2021-10-18 19:02:56,651 : INFO : test_create_new_application : Choose branch
+2021-10-18 19:02:56,740 : INFO : test_create_new_application : Choose Location
+2021-10-18 19:02:56,867 : INFO : test_create_new_application : Choose Search Location
+2021-10-18 19:02:58,042 : INFO : test_create_new_application : Choose searched location
+2021-10-18 19:02:58,131 : INFO : test_create_new_application : Choose Broker
+2021-10-18 19:02:58,199 : INFO : test_create_new_application : Choose Search Broker
+2021-10-18 19:02:59,339 : INFO : test_create_new_application : Choose searched Broker
+2021-10-18 19:03:03,071 : INFO : test_create_new_application : Click Logout
+2021-10-18 19:03:21,520 : INFO : test_list : Enter Applicant Name
+2021-10-18 19:03:21,670 : INFO : test_list : Enter Applicant Email ID
+2021-10-18 19:03:21,789 : INFO : test_list : Enter Applican Mobile Number
+2021-10-18 19:03:21,895 : INFO : test_list : Choose Applicant type as Individual
+2021-10-18 19:03:21,987 : INFO : test_list : Get list of branches
+2021-10-18 19:03:22,064 : INFO : test_list : Choose Branch as Thane-B
+2021-10-18 19:03:22,154 : INFO : test_list : Get List of searched locations
+2021-10-18 19:03:22,865 : INFO : test_list : Choose Anand Nagar Location
+2021-10-18 19:03:23,023 : INFO : test_list : Get list of Brokers
+2021-10-18 19:03:24,754 : INFO : test_list : Choose AK2010202 broker
+2021-10-18 19:03:25,000 : INFO : test_list : Click Logout
+2021-10-18 19:03:43,337 : INFO : test_login : Enter Username
+2021-10-18 19:03:43,539 : INFO : test_login : Enter Password
+2021-10-18 19:03:43,701 : INFO : test_login : Click Login button
+2021-10-18 19:03:54,339 : INFO : test_login : Click Logout
+2021-10-18 19:03:56,804 : INFO : test_login : Enter Username
+2021-10-18 19:03:56,985 : INFO : test_login : Enter Password
+2021-10-18 19:03:57,122 : INFO : test_login : Click Login button
+2021-10-18 19:03:57,619 : INFO : test_login : Enter Username
+2021-10-18 19:03:57,758 : INFO : test_login : Enter Password
+2021-10-18 19:03:57,863 : INFO : test_login : Click Login button
+2021-10-18 19:03:58,423 : INFO : test_login : Enter Username
+2021-10-18 19:03:58,564 : INFO : test_login : Enter Password
+2021-10-18 19:03:58,705 : INFO : test_login : Click Login button
+2021-10-18 19:03:59,615 : INFO : test_login : Enter Username
+2021-10-18 19:03:59,784 : INFO : test_login : Enter Password
+2021-10-18 19:03:59,889 : INFO : test_login : Click Login button
+2021-10-18 19:04:00,319 : INFO : test_login : Enter Username
+2021-10-18 19:04:00,468 : INFO : test_login : Enter Password
+2021-10-18 19:04:00,616 : INFO : test_login : Click Login button
+2021-10-18 19:04:06,255 : INFO : test_new_application : Enter Username
+2021-10-18 19:04:06,453 : INFO : test_new_application : Enter Password
+2021-10-18 19:04:06,607 : INFO : test_new_application : Click Login button
+2021-10-18 19:04:12,605 : INFO : test_new_application : Click Logout
+2021-10-27 13:38:49,456 : INFO : test_create_new_application : Enter Username
+2021-10-27 13:38:49,761 : INFO : test_create_new_application : Enter Password
+2021-10-27 13:38:49,901 : INFO : test_create_new_application : Click Login button
+2021-10-27 13:39:28,768 : INFO : test_create_new_application : Enter Applicant Name
+2021-10-27 13:39:28,933 : INFO : test_create_new_application : Enter Applicant Email Id
+2021-10-27 13:39:29,083 : INFO : test_create_new_application : Enter Applicant Mobile Number
+2021-10-27 13:39:29,216 : INFO : test_create_new_application : Choose Customer type
+2021-10-27 13:39:29,296 : INFO : test_create_new_application : Choose branch
+2021-10-27 13:39:29,367 : INFO : test_create_new_application : Choose Location
+2021-10-27 13:39:29,439 : INFO : test_create_new_application : Choose Search Location
+2021-10-27 13:39:30,593 : INFO : test_create_new_application : Choose searched location
+2021-10-27 13:39:30,691 : INFO : test_create_new_application : Choose Broker
+2021-10-27 13:39:30,749 : INFO : test_create_new_application : Choose Search Broker
+2021-10-27 13:39:31,889 : INFO : test_create_new_application : Choose searched Broker
+2021-10-27 13:39:47,540 : INFO : test_create_new_application : Click Logout
+2021-10-27 13:40:05,684 : INFO : test_list : Enter Applicant Name
+2021-10-27 13:40:05,825 : INFO : test_list : Enter Applicant Email ID
+2021-10-27 13:40:05,949 : INFO : test_list : Enter Applican Mobile Number
+2021-10-27 13:40:06,050 : INFO : test_list : Choose Applicant type as Individual
+2021-10-27 13:40:06,133 : INFO : test_list : Get list of branches
+2021-10-27 13:40:06,195 : INFO : test_list : Choose Branch as Thane-B
+2021-10-27 13:40:06,275 : INFO : test_list : Get List of searched locations
+2021-10-27 13:40:06,988 : INFO : test_list : Choose Anand Nagar Location
+2021-10-27 13:40:07,141 : INFO : test_list : Get list of Brokers
+2021-10-27 13:40:07,787 : INFO : test_list : Choose AK2010202 broker
+2021-10-27 13:40:08,014 : INFO : test_list : Click Logout
+2021-10-27 13:40:15,068 : INFO : test_login : Enter Username
+2021-10-27 13:40:15,266 : INFO : test_login : Enter Password
+2021-10-27 13:40:15,399 : INFO : test_login : Click Login button
+2021-10-27 13:40:22,943 : INFO : test_login : Click Logout
+2021-10-27 13:40:25,302 : INFO : test_login : Enter Username
+2021-10-27 13:40:25,457 : INFO : test_login : Enter Password
+2021-10-27 13:40:25,568 : INFO : test_login : Click Login button
+2021-10-27 13:40:26,059 : INFO : test_login : Enter Username
+2021-10-27 13:40:26,194 : INFO : test_login : Enter Password
+2021-10-27 13:40:26,281 : INFO : test_login : Click Login button
+2021-10-27 13:40:26,728 : INFO : test_login : Enter Username
+2021-10-27 13:40:26,873 : INFO : test_login : Enter Password
+2021-10-27 13:40:26,984 : INFO : test_login : Click Login button
+2021-10-27 13:40:27,906 : INFO : test_login : Enter Username
+2021-10-27 13:40:28,043 : INFO : test_login : Enter Password
+2021-10-27 13:40:28,153 : INFO : test_login : Click Login button
+2021-10-27 13:40:28,307 : INFO : test_login : Enter Username
+2021-10-27 13:40:28,735 : INFO : test_login : Enter Password
+2021-10-27 13:40:28,975 : INFO : test_login : Click Login button
+2021-10-27 13:40:35,044 : INFO : test_new_application : Enter Username
+2021-10-27 13:40:35,229 : INFO : test_new_application : Enter Password
+2021-10-27 13:40:35,380 : INFO : test_new_application : Click Login button
+2021-10-27 13:40:44,121 : INFO : test_new_application : Click Logout
+2021-10-27 14:29:08,040 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:29:08,217 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:29:08,367 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:30:09,986 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:30:10,177 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:30:10,312 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:31:15,139 : INFO : test_proof_of_identity : Enter Username
+2021-10-27 14:31:15,341 : INFO : test_proof_of_identity : Enter Password
+2021-10-27 14:31:15,480 : INFO : test_proof_of_identity : Click Login button
+2021-10-27 14:34:17,273 : INFO : test_upload_documents : Enter Username
+2021-10-27 14:34:17,467 : INFO : test_upload_documents : Enter Password
+2021-10-27 14:34:17,623 : INFO : test_upload_documents : Click Login button
+2021-10-27 15:59:28,797 : INFO : test_upload_documents : Enter Username
+2021-10-27 15:59:29,102 : INFO : test_upload_documents : Enter Password
+2021-10-27 15:59:29,304 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:00:54,261 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:00:54,520 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:00:54,671 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:15:48,952 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:15:49,236 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:15:49,394 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:16:38,052 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:16:38,259 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:16:38,411 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:19:49,958 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:19:50,183 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:19:50,327 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:20:26,283 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:20:26,481 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:20:26,632 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:22:32,210 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:22:32,428 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:22:32,597 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:25:22,868 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:25:23,058 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:25:23,215 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:28:49,172 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:28:49,432 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:28:49,582 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:30:29,440 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:30:29,792 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:30:29,928 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:32:42,057 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:32:42,247 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:32:42,402 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:33:54,149 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:33:54,363 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:33:54,523 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:45:40,045 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:45:40,235 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:45:40,390 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:46:58,562 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:46:58,760 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:46:58,913 : INFO : test_upload_documents : Click Login button
+2021-10-27 16:48:36,229 : INFO : test_upload_documents : Enter Username
+2021-10-27 16:48:36,440 : INFO : test_upload_documents : Enter Password
+2021-10-27 16:48:36,598 : INFO : test_upload_documents : Click Login button
+2021-10-27 17:03:23,071 : INFO : test_upload_documents : Enter Username
+2021-10-27 17:03:23,277 : INFO : test_upload_documents : Enter Password
+2021-10-27 17:03:23,423 : INFO : test_upload_documents : Click Login button
+2021-10-27 17:04:39,022 : INFO : test_upload_documents : Enter Username
+2021-10-27 17:04:39,272 : INFO : test_upload_documents : Enter Password
+2021-10-27 17:04:39,427 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:25:25,446 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:25:25,657 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:25:25,811 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:27:06,108 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:27:06,288 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:27:06,430 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:28:12,717 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:28:12,894 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:28:13,036 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:29:54,244 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:29:54,422 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:29:54,576 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:31:30,312 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:31:30,518 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:31:30,672 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:35:07,377 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:35:07,545 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:35:07,689 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:36:43,554 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:36:43,732 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:36:43,882 : INFO : test_upload_documents : Click Login button
+2021-10-27 18:37:27,397 : INFO : test_upload_documents : Enter Username
+2021-10-27 18:37:27,567 : INFO : test_upload_documents : Enter Password
+2021-10-27 18:37:27,718 : INFO : test_upload_documents : Click Login button
+2021-10-27 20:06:16,776 : INFO : test_upload_documents : Enter Username
+2021-10-27 20:06:16,977 : INFO : test_upload_documents : Enter Password
+2021-10-27 20:06:17,128 : INFO : test_upload_documents : Click Login button
+2021-10-27 20:08:45,348 : INFO : test_upload_documents : Enter Username
+2021-10-27 20:08:45,529 : INFO : test_upload_documents : Enter Password
+2021-10-27 20:08:45,683 : INFO : test_upload_documents : Click Login button
+2021-10-27 20:10:01,982 : INFO : test_upload_documents : Enter Username
+2021-10-27 20:10:02,159 : INFO : test_upload_documents : Enter Password
+2021-10-27 20:10:02,316 : INFO : test_upload_documents : Click Login button
+2021-10-27 20:11:04,954 : INFO : test_upload_documents : Enter Username
+2021-10-27 20:11:05,129 : INFO : test_upload_documents : Enter Password
+2021-10-27 20:11:05,273 : INFO : test_upload_documents : Click Login button
+2021-10-28 14:02:17,412 : INFO : test_create_new_application : Enter Username
+2021-10-28 14:02:17,684 : INFO : test_create_new_application : Enter Password
+2021-10-28 14:02:17,850 : INFO : test_create_new_application : Click Login button
+2021-10-28 16:07:16,858 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:07:17,038 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:07:17,193 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:09:22,316 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:09:22,515 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:09:22,675 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:17:44,205 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:17:44,399 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:17:44,555 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:20:16,508 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:20:16,713 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:20:16,857 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:24:36,486 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:24:36,655 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:24:36,809 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:25:15,722 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:25:15,892 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:25:16,052 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:27:07,326 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:27:07,523 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:27:07,659 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:28:53,797 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:28:53,999 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:28:54,156 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:30:57,023 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:30:57,232 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:30:57,385 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:48:59,940 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:49:00,145 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:49:00,314 : INFO : test_upload_documents : Click Login button
+2021-10-28 16:51:57,606 : INFO : test_upload_documents : Enter Username
+2021-10-28 16:51:57,798 : INFO : test_upload_documents : Enter Password
+2021-10-28 16:51:57,961 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:00:06,042 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:00:06,235 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:00:06,391 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:01:40,595 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:01:40,773 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:01:40,929 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:02:37,904 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:02:38,070 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:02:38,234 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:06:47,779 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:06:47,961 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:06:48,111 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:24:36,994 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:24:37,192 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:24:37,351 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:30:22,434 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:30:22,588 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:30:22,733 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:35:56,305 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:35:56,500 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:35:56,636 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:41:14,554 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:41:14,732 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:41:14,889 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:42:15,704 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:42:15,860 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:42:15,996 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:44:52,900 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:44:53,085 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:44:53,235 : INFO : test_upload_documents : Click Login button
+2021-10-28 17:46:21,616 : INFO : test_upload_documents : Enter Username
+2021-10-28 17:46:21,761 : INFO : test_upload_documents : Enter Password
+2021-10-28 17:46:21,914 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:29:06,676 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:29:06,845 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:29:06,989 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:31:38,241 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:31:38,405 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:31:38,543 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:52:51,029 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:52:51,204 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:52:51,374 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:54:00,718 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:54:00,901 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:54:01,049 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:54:58,042 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:54:58,222 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:54:58,369 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:57:20,935 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:57:21,108 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:57:21,262 : INFO : test_upload_documents : Click Login button
+2021-10-28 18:57:51,680 : INFO : test_upload_documents : Enter Username
+2021-10-28 18:57:51,838 : INFO : test_upload_documents : Enter Password
+2021-10-28 18:57:51,974 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:00:22,909 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:00:23,084 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:00:23,240 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:02:35,832 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:02:35,993 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:02:36,167 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:03:46,854 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:03:47,037 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:03:47,194 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:04:28,204 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:04:28,362 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:04:28,512 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:14:05,906 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:14:06,085 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:14:06,235 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:14:36,109 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:14:36,269 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:14:36,430 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:16:33,449 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:16:33,617 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:16:33,774 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:18:08,936 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:18:09,120 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:18:09,273 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:18:31,165 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:18:31,338 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:18:31,494 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:19:24,304 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:19:24,464 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:19:24,657 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:20:25,125 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:20:25,293 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:20:25,453 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:21:44,871 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:21:45,030 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:21:45,180 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:23:21,408 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:23:21,578 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:23:21,744 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:24:40,767 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:24:40,947 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:24:41,103 : INFO : test_upload_documents : Click Login button
+2021-10-28 19:25:41,420 : INFO : test_upload_documents : Enter Username
+2021-10-28 19:25:41,584 : INFO : test_upload_documents : Enter Password
+2021-10-28 19:25:41,733 : INFO : test_upload_documents : Click Login button
+2021-10-29 10:04:23,823 : INFO : test_upload_documents : Enter Username
+2021-10-29 10:04:24,008 : INFO : test_upload_documents : Enter Password
+2021-10-29 10:04:24,161 : INFO : test_upload_documents : Click Login button
+2021-10-29 10:06:08,693 : INFO : test_upload_documents : Enter Username
+2021-10-29 10:06:08,872 : INFO : test_upload_documents : Enter Password
+2021-10-29 10:06:09,004 : INFO : test_upload_documents : Click Login button
+2021-10-29 10:08:45,221 : INFO : test_upload_documents : Enter Username
+2021-10-29 10:08:45,420 : INFO : test_upload_documents : Enter Password
+2021-10-29 10:08:45,579 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:04:04,626 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:04:04,793 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:04:04,957 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:05:29,771 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:05:29,964 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:05:30,131 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:06:14,587 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:06:14,754 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:06:14,914 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:08:04,901 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:08:05,070 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:08:05,202 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:14:55,955 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:14:56,115 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:14:56,267 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:15:30,142 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:15:30,308 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:15:30,458 : INFO : test_upload_documents : Click Login button
+2021-10-29 12:17:31,476 : INFO : test_upload_documents : Enter Username
+2021-10-29 12:17:31,637 : INFO : test_upload_documents : Enter Password
+2021-10-29 12:17:31,777 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:16:12,074 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:16:12,269 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:16:12,420 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:18:39,097 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:18:39,272 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:18:39,449 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:22:58,718 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:22:58,891 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:22:59,040 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:25:59,889 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:26:00,068 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:26:00,225 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:29:36,569 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:29:36,722 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:29:36,866 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:30:43,107 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:30:43,256 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:30:43,386 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:32:50,571 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:32:50,738 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:32:50,893 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:35:59,888 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:36:00,053 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:36:00,192 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:36:09,536 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:36:09,580 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:36:09,813 : INFO : test_upload_documents : Passport document found
+2021-10-29 13:37:20,000 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:37:20,169 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:37:20,319 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:37:26,150 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,174 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,203 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,222 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,250 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,333 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,363 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,386 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,409 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,424 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,427 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,458 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,475 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,491 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,494 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,526 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,541 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,559 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:37:26,575 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:47,730 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:38:47,889 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:38:48,047 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:38:54,348 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,365 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,382 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,399 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,417 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,432 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,459 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,492 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,530 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,601 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,622 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,637 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,644 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,672 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,688 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,705 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,709 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,725 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:38:54,755 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:40:42,377 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:40:42,554 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:40:42,688 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:41:21,980 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:41:21,995 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,010 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,026 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,040 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,057 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,074 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,092 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,108 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,128 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,143 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,160 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,177 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,193 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,207 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,223 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,240 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,258 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,274 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:41:22,291 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:43:46,888 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:43:47,053 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:43:47,220 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:44:54,418 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:44:54,434 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,448 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,458 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,475 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,484 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,499 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,507 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,522 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,533 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,546 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,555 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,572 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,584 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,597 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,608 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,622 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,631 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,646 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,653 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,667 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,678 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,694 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,703 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,718 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,730 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,747 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,756 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,773 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,776 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,797 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,804 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,819 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,826 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,839 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,847 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,860 : INFO : test_upload_documents : 
+2021-10-29 13:44:54,867 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:44:54,882 : INFO : test_upload_documents : 
+2021-10-29 13:46:32,822 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:46:32,988 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:46:33,155 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:46:58,630 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:46:58,645 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,678 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,690 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,710 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,727 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,745 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,758 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,782 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,795 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,813 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,830 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,848 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,860 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,875 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,888 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,908 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,917 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,939 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,947 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,968 : INFO : test_upload_documents : 
+2021-10-29 13:46:58,968 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:58,980 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,020 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,044 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,051 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,051 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,067 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,096 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,105 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,121 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,128 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,144 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,153 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,168 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,176 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,191 : INFO : test_upload_documents : 
+2021-10-29 13:46:59,198 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:46:59,214 : INFO : test_upload_documents : 
+2021-10-29 13:48:13,426 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:48:13,594 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:48:13,745 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:48:23,760 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:48:23,777 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,799 : INFO : test_upload_documents : 
+2021-10-29 13:48:23,810 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,827 : INFO : test_upload_documents : 
+2021-10-29 13:48:23,841 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,860 : INFO : test_upload_documents : 
+2021-10-29 13:48:23,874 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,892 : INFO : test_upload_documents : 
+2021-10-29 13:48:23,905 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,934 : INFO : test_upload_documents : Utility Bill
+Utility bill (latest 2 months) - electricity, telephone, post-paid phone, piped gas, water bill / Rental Agreement
+2021-10-29 13:48:23,961 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:23,982 : INFO : test_upload_documents : 
+2021-10-29 13:48:23,992 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,013 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,020 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,034 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,034 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,050 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,067 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,083 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,091 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,106 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,115 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,131 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,139 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,185 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,199 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,213 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,221 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,240 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,246 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,260 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,266 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,280 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,287 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,300 : INFO : test_upload_documents : 
+2021-10-29 13:48:24,307 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:48:24,321 : INFO : test_upload_documents : 
+2021-10-29 13:51:45,179 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:51:45,345 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:51:45,494 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:52:54,290 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:52:54,330 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:52:54,352 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 13:52:54,383 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:52:54,399 : INFO : test_upload_documents : Passport
+2021-10-29 13:52:54,494 : INFO : test_upload_documents : Passport document found
+2021-10-29 13:54:16,452 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:54:16,612 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:54:16,748 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:55:11,264 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:55:11,305 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:11,325 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 13:55:11,325 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:11,341 : INFO : test_upload_documents : Passport
+2021-10-29 13:55:11,442 : INFO : test_upload_documents : Passport document found
+2021-10-29 13:55:16,591 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 13:55:16,771 : INFO : test_upload_documents : Save button clicked
+2021-10-29 13:55:16,771 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,792 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,798 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,812 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,819 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,832 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,840 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,852 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,859 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,872 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,879 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,892 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,899 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,912 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,919 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,932 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,938 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,951 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,958 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,971 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,978 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:16,988 : INFO : test_upload_documents : 
+2021-10-29 13:55:16,988 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,004 : INFO : test_upload_documents : 
+2021-10-29 13:55:17,004 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,019 : INFO : test_upload_documents : 
+2021-10-29 13:55:17,019 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,035 : INFO : test_upload_documents : 
+2021-10-29 13:55:17,051 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,051 : INFO : test_upload_documents : 
+2021-10-29 13:55:17,066 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,066 : INFO : test_upload_documents : 
+2021-10-29 13:55:17,082 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:55:17,097 : INFO : test_upload_documents : 
+2021-10-29 13:56:26,298 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:56:26,464 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:56:26,606 : INFO : test_upload_documents : Click Login button
+2021-10-29 13:57:42,809 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 13:57:42,845 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,860 : INFO : test_upload_documents : 
+2021-10-29 13:57:42,877 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,893 : INFO : test_upload_documents : 
+2021-10-29 13:57:42,893 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,908 : INFO : test_upload_documents : 
+2021-10-29 13:57:42,924 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,940 : INFO : test_upload_documents : 
+2021-10-29 13:57:42,940 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,955 : INFO : test_upload_documents : 
+2021-10-29 13:57:42,971 : INFO : test_upload_documents : Check for passport document
+2021-10-29 13:57:42,977 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 13:57:43,073 : INFO : test_upload_documents : Passport document found
+2021-10-29 13:58:52,003 : INFO : test_upload_documents : Enter Username
+2021-10-29 13:58:52,178 : INFO : test_upload_documents : Enter Password
+2021-10-29 13:58:52,329 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:00:06,142 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:00:06,161 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,166 : INFO : test_upload_documents : 
+2021-10-29 14:00:06,182 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,198 : INFO : test_upload_documents : 
+2021-10-29 14:00:06,198 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,213 : INFO : test_upload_documents : 
+2021-10-29 14:00:06,226 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,240 : INFO : test_upload_documents : 
+2021-10-29 14:00:06,246 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,262 : INFO : test_upload_documents : 
+2021-10-29 14:00:06,262 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:00:06,293 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 14:00:06,386 : INFO : test_upload_documents : Passport document found
+2021-10-29 14:01:24,953 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:01:25,124 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:01:25,268 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:02:01,362 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:02:01,404 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:01,430 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 14:02:01,446 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:01,462 : INFO : test_upload_documents : Passport
+2021-10-29 14:02:01,462 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:01,477 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 14:02:01,570 : INFO : test_upload_documents : Passport document found
+2021-10-29 14:02:06,687 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 14:02:06,890 : INFO : test_upload_documents : Save button clicked
+2021-10-29 14:02:06,891 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:06,913 : INFO : test_upload_documents : 
+2021-10-29 14:02:06,920 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:06,935 : INFO : test_upload_documents : 
+2021-10-29 14:02:06,943 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:06,962 : INFO : test_upload_documents : 
+2021-10-29 14:02:06,969 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:06,983 : INFO : test_upload_documents : 
+2021-10-29 14:02:06,990 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,005 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,016 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,034 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,041 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,061 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,069 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,085 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,091 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,113 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,120 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,135 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,142 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,159 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,170 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,197 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,205 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,220 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,229 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,247 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,254 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,268 : INFO : test_upload_documents : 
+2021-10-29 14:02:07,275 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:02:07,294 : INFO : test_upload_documents : 
+2021-10-29 14:03:22,668 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:03:22,831 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:03:22,976 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:03:55,439 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:03:55,477 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:03:55,504 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 14:03:55,514 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:03:55,525 : INFO : test_upload_documents : Passport
+2021-10-29 14:03:55,541 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:03:55,556 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 14:03:55,641 : INFO : test_upload_documents : Passport document found
+2021-10-29 14:04:00,767 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 14:04:00,976 : INFO : test_upload_documents : Save button clicked
+2021-10-29 14:06:26,599 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:06:26,774 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:06:26,908 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:07:41,936 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:07:41,951 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:07:41,992 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 14:07:41,998 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:07:42,014 : INFO : test_upload_documents : Passport
+2021-10-29 14:07:42,030 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:07:42,045 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 14:07:42,935 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 14:07:43,133 : INFO : test_upload_documents : Save button clicked
+2021-10-29 14:11:20,194 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:11:20,376 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:11:20,519 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:12:11,462 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:12:11,478 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:12:11,515 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 14:12:11,531 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:12:11,562 : INFO : test_upload_documents : Passport
+2021-10-29 14:12:11,578 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:12:11,593 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 14:12:11,699 : INFO : test_upload_documents : Aadhar Card Document found
+2021-10-29 14:12:12,412 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 14:12:12,597 : INFO : test_upload_documents : Save button clicked
+2021-10-29 14:13:58,028 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:13:58,182 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:13:58,322 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:15:56,386 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:15:56,409 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,424 : INFO : test_upload_documents : 
+2021-10-29 14:15:56,440 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,455 : INFO : test_upload_documents : 
+2021-10-29 14:15:56,455 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,471 : INFO : test_upload_documents : 
+2021-10-29 14:15:56,487 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,493 : INFO : test_upload_documents : 
+2021-10-29 14:15:56,509 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,525 : INFO : test_upload_documents : 
+2021-10-29 14:15:56,525 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:15:56,540 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 14:15:56,648 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 14:38:32,469 : INFO : test_upload_documents : Enter Username
+2021-10-29 14:38:32,638 : INFO : test_upload_documents : Enter Password
+2021-10-29 14:38:32,777 : INFO : test_upload_documents : Click Login button
+2021-10-29 14:39:47,610 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 14:39:47,644 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,660 : INFO : test_upload_documents : 
+2021-10-29 14:39:47,679 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,695 : INFO : test_upload_documents : 
+2021-10-29 14:39:47,695 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,710 : INFO : test_upload_documents : 
+2021-10-29 14:39:47,710 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,726 : INFO : test_upload_documents : 
+2021-10-29 14:39:47,742 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,757 : INFO : test_upload_documents : 
+2021-10-29 14:39:47,757 : INFO : test_upload_documents : Check for passport document
+2021-10-29 14:39:47,779 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 14:39:47,873 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:35:27,086 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:35:27,376 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:35:27,596 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:36:14,578 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:36:14,604 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,628 : INFO : test_upload_documents : 
+2021-10-29 17:36:14,638 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,654 : INFO : test_upload_documents : 
+2021-10-29 17:36:14,664 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,689 : INFO : test_upload_documents : 
+2021-10-29 17:36:14,703 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,725 : INFO : test_upload_documents : 
+2021-10-29 17:36:14,738 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,760 : INFO : test_upload_documents : 
+2021-10-29 17:36:14,775 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:36:14,804 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:36:14,948 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:43:43,913 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:43:44,097 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:43:44,246 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:43:53,746 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:43:53,762 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,778 : INFO : test_upload_documents : 
+2021-10-29 17:43:53,778 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,809 : INFO : test_upload_documents : 
+2021-10-29 17:43:53,809 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,831 : INFO : test_upload_documents : 
+2021-10-29 17:43:53,847 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,862 : INFO : test_upload_documents : 
+2021-10-29 17:43:53,862 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,878 : INFO : test_upload_documents : 
+2021-10-29 17:43:53,894 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:43:53,909 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:43:54,028 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:44:27,088 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:44:27,246 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:44:27,399 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:44:37,556 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:44:37,556 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,588 : INFO : test_upload_documents : 
+2021-10-29 17:44:37,594 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,610 : INFO : test_upload_documents : 
+2021-10-29 17:44:37,610 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,625 : INFO : test_upload_documents : 
+2021-10-29 17:44:37,625 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,657 : INFO : test_upload_documents : 
+2021-10-29 17:44:37,657 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,672 : INFO : test_upload_documents : 
+2021-10-29 17:44:37,672 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:44:37,694 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:44:37,809 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:46:25,795 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:46:25,960 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:46:26,121 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:46:37,078 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:46:37,096 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,111 : INFO : test_upload_documents : 
+2021-10-29 17:46:37,111 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,143 : INFO : test_upload_documents : 
+2021-10-29 17:46:37,143 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,158 : INFO : test_upload_documents : 
+2021-10-29 17:46:37,174 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,196 : INFO : test_upload_documents : 
+2021-10-29 17:46:37,196 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,212 : INFO : test_upload_documents : 
+2021-10-29 17:46:37,227 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:46:37,243 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:46:37,356 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:47:34,431 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:47:34,588 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:47:34,744 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:47:45,900 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:47:45,916 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:45,932 : INFO : test_upload_documents : 
+2021-10-29 17:47:45,938 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:45,954 : INFO : test_upload_documents : 
+2021-10-29 17:47:45,969 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:45,985 : INFO : test_upload_documents : 
+2021-10-29 17:47:45,985 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:46,016 : INFO : test_upload_documents : 
+2021-10-29 17:47:46,016 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:46,038 : INFO : test_upload_documents : 
+2021-10-29 17:47:46,038 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:47:46,054 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:47:46,176 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:48:49,356 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:48:49,513 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:48:49,653 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:49:02,900 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:49:02,906 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:02,922 : INFO : test_upload_documents : 
+2021-10-29 17:49:02,937 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:02,953 : INFO : test_upload_documents : 
+2021-10-29 17:49:02,953 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:02,969 : INFO : test_upload_documents : 
+2021-10-29 17:49:02,984 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:03,006 : INFO : test_upload_documents : 
+2021-10-29 17:49:03,006 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:03,022 : INFO : test_upload_documents : 
+2021-10-29 17:49:03,038 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:03,053 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:49:03,165 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:49:35,216 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:49:35,358 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:49:35,508 : INFO : test_upload_documents : Click Login button
+2021-10-29 17:49:48,290 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 17:49:48,290 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,305 : INFO : test_upload_documents : 
+2021-10-29 17:49:48,328 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,343 : INFO : test_upload_documents : 
+2021-10-29 17:49:48,343 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,359 : INFO : test_upload_documents : 
+2021-10-29 17:49:48,359 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,374 : INFO : test_upload_documents : 
+2021-10-29 17:49:48,390 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,406 : INFO : test_upload_documents : 
+2021-10-29 17:49:48,406 : INFO : test_upload_documents : Check for passport document
+2021-10-29 17:49:48,428 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 17:49:48,540 : INFO : test_upload_documents : Document PAN Card Document found
+2021-10-29 17:53:28,195 : INFO : test_upload_documents : Enter Username
+2021-10-29 17:53:28,364 : INFO : test_upload_documents : Enter Password
+2021-10-29 17:53:28,538 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:05:47,905 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:05:48,081 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:05:48,240 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:05:58,073 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:05:58,089 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,104 : INFO : test_upload_documents : 
+2021-10-29 18:05:58,108 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,124 : INFO : test_upload_documents : 
+2021-10-29 18:05:58,124 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,140 : INFO : test_upload_documents : 
+2021-10-29 18:05:58,155 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,171 : INFO : test_upload_documents : 
+2021-10-29 18:05:58,171 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,186 : INFO : test_upload_documents : 
+2021-10-29 18:05:58,209 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:05:58,224 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 18:06:18,383 : INFO : test_upload_documents :  Document found
+2021-10-29 18:07:38,208 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:07:38,361 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:07:38,517 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:07:50,268 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:07:50,284 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,299 : INFO : test_upload_documents : 
+2021-10-29 18:07:50,299 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,315 : INFO : test_upload_documents : 
+2021-10-29 18:07:50,331 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,353 : INFO : test_upload_documents : 
+2021-10-29 18:07:50,353 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,368 : INFO : test_upload_documents : 
+2021-10-29 18:07:50,384 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,384 : INFO : test_upload_documents : 
+2021-10-29 18:07:50,400 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:07:50,415 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 18:07:55,549 : INFO : test_upload_documents :  Document found
+2021-10-29 18:07:55,741 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:10:04,016 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:10:04,199 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:10:04,342 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:11:16,219 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:11:16,391 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:11:16,528 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:11:25,863 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:11:25,879 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:25,879 : INFO : test_upload_documents : 
+2021-10-29 18:11:25,894 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:25,917 : INFO : test_upload_documents : 
+2021-10-29 18:11:25,917 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:25,932 : INFO : test_upload_documents : 
+2021-10-29 18:11:25,932 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:25,948 : INFO : test_upload_documents : 
+2021-10-29 18:11:25,963 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:25,979 : INFO : test_upload_documents : 
+2021-10-29 18:11:25,995 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:11:26,010 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 18:11:31,126 : INFO : test_upload_documents :  Document found
+2021-10-29 18:11:31,258 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:11:31,259 : INFO : test_upload_documents : Save button clicked
+2021-10-29 18:19:43,385 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:19:43,581 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:19:43,722 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:19:55,580 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:19:55,595 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,611 : INFO : test_upload_documents : 
+2021-10-29 18:19:55,611 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,627 : INFO : test_upload_documents : 
+2021-10-29 18:19:55,643 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,658 : INFO : test_upload_documents : 
+2021-10-29 18:19:55,658 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,674 : INFO : test_upload_documents : 
+2021-10-29 18:19:55,690 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,690 : INFO : test_upload_documents : 
+2021-10-29 18:19:55,705 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:19:55,727 : INFO : test_upload_documents : Document PAN Card
+2021-10-29 18:20:00,859 : INFO : test_upload_documents :  Document found
+2021-10-29 18:20:01,015 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:20:01,124 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 18:20:01,199 : INFO : test_upload_documents : Save button clicked
+2021-10-29 18:22:46,369 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:22:46,552 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:22:46,697 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:22:58,215 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:22:58,230 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:22:58,246 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 18:22:58,246 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:22:58,268 : INFO : test_upload_documents : Passport
+2021-10-29 18:23:03,400 : INFO : test_upload_documents :  Document found
+2021-10-29 18:23:03,560 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:23:03,670 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 18:28:51,014 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:28:51,185 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:28:51,340 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:29:58,118 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:29:58,171 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:29:58,201 : INFO : test_upload_documents : DrivingLicense
+2021-10-29 18:29:58,211 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:29:58,228 : INFO : test_upload_documents : Passport
+2021-10-29 18:29:58,238 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:29:58,255 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 18:30:03,363 : INFO : test_upload_documents :  Document found
+2021-10-29 18:30:03,529 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:30:03,639 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 18:30:03,711 : INFO : test_upload_documents : Save button clicked
+2021-10-29 18:46:51,235 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:46:51,414 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:46:51,574 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:46:59,316 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:46:59,336 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,367 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,392 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,423 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,432 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,460 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,469 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,487 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,500 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,528 : INFO : test_upload_documents : Utility Bill
+Utility bill (latest 2 months) - electricity, telephone, post-paid phone, piped gas, water bill / Rental Agreement
+2021-10-29 18:46:59,541 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,571 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,582 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,598 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,603 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,629 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,639 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,661 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,669 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,690 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,701 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,721 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,730 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,748 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,756 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,774 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,782 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,796 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,800 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,816 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,830 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,845 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,853 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,867 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,875 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,891 : INFO : test_upload_documents : 
+2021-10-29 18:46:59,898 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:46:59,912 : INFO : test_upload_documents : 
+2021-10-29 18:52:40,382 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:52:40,552 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:52:40,687 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:52:47,938 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:52:47,952 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:52:52,970 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:52:58,030 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:53:03,077 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 18:53:03,191 : INFO : test_upload_documents : Aadhar Card Document found
+2021-10-29 18:57:43,048 : INFO : test_upload_documents : Enter Username
+2021-10-29 18:57:43,226 : INFO : test_upload_documents : Enter Password
+2021-10-29 18:57:43,378 : INFO : test_upload_documents : Click Login button
+2021-10-29 18:58:46,684 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 18:58:46,708 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:58:51,731 : INFO : test_upload_documents : Check for passport document
+2021-10-29 18:58:56,807 : INFO : test_upload_documents : Passport
+2021-10-29 18:58:56,910 : INFO : test_upload_documents : Passport Document found
+2021-10-29 18:59:02,043 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 18:59:02,144 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:02:46,552 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:02:46,712 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:02:46,872 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:02:53,700 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:02:53,714 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:02:58,740 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:03:03,793 : INFO : test_upload_documents : Passport
+2021-10-29 19:03:03,899 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:03:09,051 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:03:09,157 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:03:09,237 : INFO : test_upload_documents : Save button clicked
+2021-10-29 19:04:09,723 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:04:09,876 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:04:10,020 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:04:14,685 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:04:14,713 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:04:19,755 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:04:24,796 : INFO : test_upload_documents : Passport
+2021-10-29 19:04:24,939 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:04:30,113 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:04:30,218 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:05:50,039 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:05:50,194 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:05:50,334 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:05:58,293 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:05:58,311 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:06:03,331 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:06:08,387 : INFO : test_upload_documents : Passport
+2021-10-29 19:06:08,480 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:06:13,654 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:06:13,761 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:06:13,823 : INFO : test_upload_documents : Save button clicked
+2021-10-29 19:06:49,853 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:06:50,020 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:06:50,180 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:06:56,939 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:06:56,968 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:06:59,049 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:07:01,062 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:07:03,099 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 19:07:03,212 : INFO : test_upload_documents : Aadhar Card Document found
+2021-10-29 19:07:05,339 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:07:05,443 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:08:43,372 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:08:43,522 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:08:43,667 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:08:48,866 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:08:48,903 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:08:50,923 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:08:52,927 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:08:54,947 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 19:08:55,054 : INFO : test_upload_documents : Aadhar Card Document found
+2021-10-29 19:08:57,168 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:08:57,282 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:08:57,365 : INFO : test_upload_documents : Save button clicked
+2021-10-29 19:09:21,083 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:09:21,264 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:09:21,396 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:09:27,820 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:09:27,867 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:09:29,905 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:09:31,925 : INFO : test_upload_documents : Passport
+2021-10-29 19:09:32,026 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:09:34,140 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:09:34,254 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:11:07,962 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:11:08,124 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:11:08,305 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:11:14,531 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:11:14,548 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:11:16,581 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:11:18,601 : INFO : test_upload_documents : Passport
+2021-10-29 19:11:18,705 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:11:20,813 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:11:20,949 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:11:42,555 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:11:42,734 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:11:42,901 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:11:50,245 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:11:50,264 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:11:52,314 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:11:54,332 : INFO : test_upload_documents : Passport
+2021-10-29 19:11:54,447 : INFO : test_upload_documents : Passport Document found
+2021-10-29 19:11:56,566 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:11:56,680 : INFO : test_upload_documents : PAN Number entered
+2021-10-29 19:11:56,756 : INFO : test_upload_documents : Save button clicked
+2021-10-29 19:12:31,007 : INFO : test_upload_documents : Enter Username
+2021-10-29 19:12:31,159 : INFO : test_upload_documents : Enter Password
+2021-10-29 19:12:31,309 : INFO : test_upload_documents : Click Login button
+2021-10-29 19:12:37,728 : INFO : test_upload_documents : Address Proof section upload button clicked
+2021-10-29 19:12:37,745 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:12:39,797 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:12:41,808 : INFO : test_upload_documents : Check for passport document
+2021-10-29 19:12:43,845 : INFO : test_upload_documents : Aadhar Card
+2021-10-29 19:12:43,949 : INFO : test_upload_documents : Aadhar Card Document found
+2021-10-29 19:12:46,074 : INFO : test_upload_documents : Applicant type selected
+2021-10-29 19:12:46,176 : INFO : test_upload_documents : PAN Number entered
+2021-11-10 22:20:03,009 : INFO : test_login : Enter Username
+2021-11-10 22:20:03,150 : INFO : test_login : Enter Password
+2021-11-10 22:20:03,267 : INFO : test_login : Click Login button
+2021-11-10 22:20:03,491 : INFO : test_login : Enter Username
+2021-11-10 22:20:03,594 : INFO : test_login : Enter Password
+2021-11-10 22:20:03,659 : INFO : test_login : Click Login button
+2021-11-10 22:20:03,842 : INFO : test_login : Enter Username
+2021-11-10 22:20:03,932 : INFO : test_login : Enter Password
+2021-11-10 22:20:04,009 : INFO : test_login : Click Login button
+2021-11-10 22:21:07,059 : INFO : test_login : Enter Username
+2021-11-10 22:21:07,203 : INFO : test_login : Enter Password
+2021-11-10 22:21:07,316 : INFO : test_login : Click Login button
+2021-11-10 22:21:22,576 : INFO : test_login : Enter Username
+2021-11-10 22:21:22,780 : INFO : test_login : Enter Username
+2021-11-10 22:24:12,513 : INFO : test_login : Enter Username
+2021-11-10 22:24:12,656 : INFO : test_login : Enter Password
+2021-11-10 22:24:12,773 : INFO : test_login : Click Login button
+2021-11-10 22:24:28,397 : INFO : test_login : Enter Username
+2021-11-10 22:24:28,601 : INFO : test_login : Enter Username
