@@ -9,8 +9,8 @@ class LoginPage:
     password = (By.CSS_SELECTOR, "#txtPassword")
     login_button = (By.CSS_SELECTOR, "#btnLogin")
     login_title = (By.CSS_SELECTOR, "#logInPanelHeading")
-    blank_password_error_msg = (By.XPATH, "span[text()='Password cannot be empty']")
-    blank_username_error_msg = (By.XPATH, "span[text()='Username cannot be empty']")
+    blank_password_error_msg = (By.XPATH, "//span[text()='Password cannot be empty']")
+    blank_username_error_msg = (By.XPATH, "//span[text()='Username cannot be empty']")
     invalid_credentials_msg = (By.CSS_SELECTOR, "div[class='text-danger validation-summary-errors'] ul li")
 
     def __init__(self, driver):
@@ -35,11 +35,17 @@ class LoginPage:
     def get_blank_password_error_msgs(self):
         return self.driver.find_elements(*LoginPage.blank_password_error_msg)
 
-    def get_invalid_credentials_error_msgs(self):
-        return self.driver.find_elements(*LoginPage.invalid_credentials_msg)
+    def get_blank_password_error_msgs(self):
+        return self.driver.find_elements(*LoginPage.blank_password_error_msg)
+
+    def get_blank_username_error_msgs(self):
+        return self.driver.find_elements(*LoginPage.blank_username_error_msg)
 
     def get_blank_password_error_msg(self):
         return self.driver.find_element(*LoginPage.blank_password_error_msg)
+
+    def get_blank_username_error_msg(self):
+        return self.driver.find_element(*LoginPage.blank_username_error_msg)
 
     def get_invalid_credentials_error_msg(self):
         return self.driver.find_element(*LoginPage.invalid_credentials_msg)

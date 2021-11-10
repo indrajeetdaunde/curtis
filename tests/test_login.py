@@ -22,29 +22,29 @@ class TestLogin(BaseClass):
 
         if usr == "":
             try:
-                login_page.get_invalid_credentials_error_msg()
+                login_page.get_blank_username_error_msg()
             except NoSuchElementException:
                 print("No Such Element")
+        elif len(login_page.get_blank_username_error_msgs()) > 0:
+            self.verify_text_presence("//span[text()='Username cannot be empty']")
+            assert login_page.get_blank_username_error_msg().text == "Username cannot be empty"
         elif len(login_page.get_blank_password_error_msgs()) > 0:
-            self.verify_link_presence("#Password-error")
-            assert login_page.get_blank_password_error_msg().text == "The Password field is required."
-        elif len(login_page.get_invalid_credentials_error_msgs()) > 0:
-            self.verify_link_presence("div[class='text-danger validation-summary-errors'] ul li")
-            assert self.driver.find_element_by_css_selector("div[class='text-danger validation-summary-errors'] ul li"
-                                                            ).text == "Invalid username/password"
+            self.verify_text_presence("//span[text()='Password cannot be empty']")
+            assert login_page.get_blank_password_error_msg().text == "Password cannot be empty"
         else:
-            self.verify_link_presence("h3[text()='Dashboard']")
+            self.verify_text_presence("//h1[text()='Dashboard']")
             dashboard_title = dashboard_page.get_dashboard_title().text
             print(dashboard_title)
-            assert "OrangeHRM" == dashboard_title
+            # assert "OrangeHRM" == dashboard_title
             assert "OrangeHRM" in self.driver.title
             dashboard_page.click_profile().click()
             log.info("Click Logout")
+            self.driver.implicitly_wait(2)
             dashboard_page.click_sign_out().click()
-            self.verify_link_presence("h3[class='m-t-20 text-center']")
-            # login_title = login_page.get_login_title().text
-            # print(login_title)
-            # assert "Unified Account Opening" == login_title
+            self.verify_link_presence("#logInPanelHeading")
+            login_title = login_page.get_login_title().text
+            print(login_title)
+            # assert "OrangeHRM" == login_title
 
         self.driver.refresh()
 

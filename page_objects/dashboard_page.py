@@ -3,9 +3,9 @@ from selenium.webdriver.common.by import By
 
 class DashboardPage:
 
-    dashboard_title = (By.XPATH, "h3[text()='Dashboard']")
+    dashboard_title = (By.XPATH, "//h1[text()='Dashboard']")
     profile = (By.CSS_SELECTOR, "#welcome")
-    sign_out = (By.XPATH, "//a[text()='Logout']c")
+    sign_out = (By.XPATH, "//a[text()='Logout']")
     menu_list = (By.XPATH, "//div[contains(@class,'kt-aside-menu-wrapper')]/div/ul/li")
     menu = (By.XPATH, "//div[contains(@class,'kt-aside-menu-wrapper')]/div/ul/li[2]/a/span[1]")
 

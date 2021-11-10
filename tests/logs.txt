@@ -1335,3 +1335,153 @@ Utility bill (latest 2 months) - electricity, telephone, post-paid phone, piped 
 2021-11-10 22:24:12,773 : INFO : test_login : Click Login button
 2021-11-10 22:24:28,397 : INFO : test_login : Enter Username
 2021-11-10 22:24:28,601 : INFO : test_login : Enter Username
+2021-11-10 22:37:58,095 : INFO : test_login : Enter Username
+2021-11-10 22:37:58,231 : INFO : test_login : Enter Password
+2021-11-10 22:37:58,338 : INFO : test_login : Click Login button
+2021-11-10 22:38:13,978 : INFO : test_login : Enter Username
+2021-11-10 22:38:14,171 : INFO : test_login : Enter Username
+2021-11-10 22:41:50,147 : INFO : test_login : Enter Username
+2021-11-10 22:41:50,296 : INFO : test_login : Enter Password
+2021-11-10 22:41:50,409 : INFO : test_login : Click Login button
+2021-11-10 22:42:05,789 : INFO : test_login : Enter Username
+2021-11-10 22:42:06,112 : INFO : test_login : Enter Username
+2021-11-10 22:46:02,432 : INFO : test_login : Enter Username
+2021-11-10 22:46:02,572 : INFO : test_login : Enter Password
+2021-11-10 22:46:02,692 : INFO : test_login : Click Login button
+2021-11-10 22:53:04,150 : INFO : test_login : Enter Username
+2021-11-10 22:53:04,294 : INFO : test_login : Enter Password
+2021-11-10 22:53:04,406 : INFO : test_login : Click Login button
+2021-11-10 22:55:26,634 : INFO : test_login : Enter Username
+2021-11-10 22:55:26,782 : INFO : test_login : Enter Password
+2021-11-10 22:55:26,912 : INFO : test_login : Click Login button
+2021-11-10 22:56:19,204 : INFO : test_login : Enter Username
+2021-11-10 22:56:19,349 : INFO : test_login : Enter Password
+2021-11-10 22:56:19,474 : INFO : test_login : Click Login button
+2021-11-10 22:56:54,710 : INFO : test_login : Click Logout
+2021-11-10 22:58:11,392 : INFO : test_login : Enter Username
+2021-11-10 22:58:11,544 : INFO : test_login : Enter Password
+2021-11-10 22:58:11,667 : INFO : test_login : Click Login button
+2021-11-10 22:58:16,586 : INFO : test_login : Enter Username
+2021-11-10 22:58:16,878 : INFO : test_login : Enter Username
+2021-11-10 22:58:57,247 : INFO : test_login : Enter Username
+2021-11-10 22:58:57,387 : INFO : test_login : Enter Password
+2021-11-10 22:58:57,523 : INFO : test_login : Click Login button
+2021-11-10 22:59:38,015 : INFO : test_login : Enter Username
+2021-11-10 22:59:38,152 : INFO : test_login : Enter Password
+2021-11-10 22:59:38,263 : INFO : test_login : Click Login button
+2021-11-10 22:59:56,225 : INFO : test_login : Click Logout
+2021-11-10 23:02:51,398 : INFO : test_login : Enter Username
+2021-11-10 23:02:51,549 : INFO : test_login : Enter Password
+2021-11-10 23:02:51,670 : INFO : test_login : Click Login button
+2021-11-10 23:05:31,237 : INFO : test_login : Click Logout
+2021-11-10 23:06:20,268 : INFO : test_login : Enter Username
+2021-11-10 23:06:20,402 : INFO : test_login : Enter Password
+2021-11-10 23:06:20,509 : INFO : test_login : Click Login button
+2021-11-10 23:06:25,853 : INFO : test_login : Click Logout
+2021-11-10 23:06:26,132 : INFO : test_login : Enter Username
+2021-11-10 23:06:26,374 : INFO : test_login : Enter Username
+2021-11-10 23:07:56,437 : INFO : test_login : Enter Username
+2021-11-10 23:07:56,556 : INFO : test_login : Enter Password
+2021-11-10 23:07:56,660 : INFO : test_login : Click Login button
+2021-11-10 23:08:12,393 : INFO : test_login : Enter Username
+2021-11-10 23:08:12,578 : INFO : test_login : Enter Username
+2021-11-10 23:08:45,467 : INFO : test_login : Enter Username
+2021-11-10 23:08:45,605 : INFO : test_login : Enter Password
+2021-11-10 23:08:45,712 : INFO : test_login : Click Login button
+2021-11-10 23:08:50,964 : INFO : test_login : Click Logout
+2021-11-10 23:08:51,210 : INFO : test_login : Enter Username
+2021-11-10 23:08:51,408 : INFO : test_login : Enter Username
+2021-11-10 23:12:35,173 : INFO : test_login : Enter Username
+2021-11-10 23:12:35,486 : INFO : test_login : Enter Password
+2021-11-10 23:12:35,642 : INFO : test_login : Click Login button
+2021-11-10 23:13:04,711 : INFO : test_login : Click Logout
+2021-11-10 23:13:41,490 : INFO : test_login : Enter Username
+2021-11-10 23:13:41,629 : INFO : test_login : Enter Password
+2021-11-10 23:13:41,752 : INFO : test_login : Click Login button
+2021-11-10 23:13:47,509 : INFO : test_login : Click Logout
+2021-11-10 23:13:47,854 : INFO : test_login : Enter Username
+2021-11-10 23:13:48,134 : INFO : test_login : Enter Username
+2021-11-10 23:15:34,901 : INFO : test_login : Enter Username
+2021-11-10 23:15:35,053 : INFO : test_login : Enter Password
+2021-11-10 23:15:35,178 : INFO : test_login : Click Login button
+2021-11-10 23:15:40,582 : INFO : test_login : Click Logout
+2021-11-10 23:15:42,846 : INFO : test_login : Enter Username
+2021-11-10 23:15:43,022 : INFO : test_login : Enter Password
+2021-11-10 23:15:43,128 : INFO : test_login : Click Login button
+2021-11-10 23:15:57,756 : INFO : test_login : Enter Username
+2021-11-10 23:15:57,850 : INFO : test_login : Enter Password
+2021-11-10 23:15:57,944 : INFO : test_login : Click Login button
+2021-11-10 23:18:09,006 : INFO : test_login : Enter Username
+2021-11-10 23:18:09,143 : INFO : test_login : Enter Password
+2021-11-10 23:18:09,262 : INFO : test_login : Click Login button
+2021-11-10 23:18:14,854 : INFO : test_login : Click Logout
+2021-11-10 23:18:17,278 : INFO : test_login : Enter Username
+2021-11-10 23:18:17,419 : INFO : test_login : Enter Password
+2021-11-10 23:18:17,515 : INFO : test_login : Click Login button
+2021-11-10 23:18:32,156 : INFO : test_login : Enter Username
+2021-11-10 23:18:32,251 : INFO : test_login : Enter Password
+2021-11-10 23:18:32,336 : INFO : test_login : Click Login button
+2021-11-10 23:19:37,488 : INFO : test_login : Enter Username
+2021-11-10 23:19:37,646 : INFO : test_login : Enter Password
+2021-11-10 23:19:37,772 : INFO : test_login : Click Login button
+2021-11-10 23:19:57,071 : INFO : test_login : Click Logout
+2021-11-10 23:20:00,110 : INFO : test_login : Enter Username
+2021-11-10 23:20:00,236 : INFO : test_login : Enter Password
+2021-11-10 23:20:00,339 : INFO : test_login : Click Login button
+2021-11-10 23:21:58,477 : INFO : test_login : Enter Username
+2021-11-10 23:21:58,622 : INFO : test_login : Enter Password
+2021-11-10 23:21:58,757 : INFO : test_login : Click Login button
+2021-11-10 23:22:05,051 : INFO : test_login : Click Logout
+2021-11-10 23:22:07,697 : INFO : test_login : Enter Username
+2021-11-10 23:22:07,865 : INFO : test_login : Enter Password
+2021-11-10 23:22:07,999 : INFO : test_login : Click Login button
+2021-11-10 23:22:22,576 : INFO : test_login : Enter Username
+2021-11-10 23:22:22,676 : INFO : test_login : Enter Password
+2021-11-10 23:22:22,768 : INFO : test_login : Click Login button
+2021-11-10 23:27:07,938 : INFO : test_login : Enter Username
+2021-11-10 23:27:08,304 : INFO : test_login : Enter Password
+2021-11-10 23:27:08,472 : INFO : test_login : Click Login button
+2021-11-10 23:27:14,205 : INFO : test_login : Click Logout
+2021-11-10 23:27:16,710 : INFO : test_login : Enter Username
+2021-11-10 23:27:16,845 : INFO : test_login : Enter Password
+2021-11-10 23:27:16,954 : INFO : test_login : Click Login button
+2021-11-10 23:27:29,386 : INFO : test_login : Enter Username
+2021-11-10 23:27:29,481 : INFO : test_login : Enter Password
+2021-11-10 23:27:29,575 : INFO : test_login : Click Login button
+2021-11-10 23:28:39,328 : INFO : test_login : Enter Username
+2021-11-10 23:28:39,478 : INFO : test_login : Enter Password
+2021-11-10 23:28:39,602 : INFO : test_login : Click Login button
+2021-11-10 23:29:03,337 : INFO : test_login : Click Logout
+2021-11-10 23:29:19,906 : INFO : test_login : Enter Username
+2021-11-10 23:29:20,049 : INFO : test_login : Enter Password
+2021-11-10 23:29:20,170 : INFO : test_login : Click Login button
+2021-11-10 23:31:57,694 : INFO : test_login : Enter Username
+2021-11-10 23:31:57,844 : INFO : test_login : Enter Password
+2021-11-10 23:31:57,975 : INFO : test_login : Click Login button
+2021-11-10 23:32:04,363 : INFO : test_login : Click Logout
+2021-11-10 23:32:06,479 : INFO : test_login : Enter Username
+2021-11-10 23:32:06,619 : INFO : test_login : Enter Password
+2021-11-10 23:32:06,729 : INFO : test_login : Click Login button
+2021-11-10 23:32:17,250 : INFO : test_login : Enter Username
+2021-11-10 23:32:17,344 : INFO : test_login : Enter Password
+2021-11-10 23:32:17,437 : INFO : test_login : Click Login button
+2021-11-10 23:35:11,895 : INFO : test_login : Enter Username
+2021-11-10 23:35:12,042 : INFO : test_login : Enter Password
+2021-11-10 23:35:12,187 : INFO : test_login : Click Login button
+2021-11-10 23:35:18,223 : INFO : test_login : Click Logout
+2021-11-10 23:35:21,104 : INFO : test_login : Enter Username
+2021-11-10 23:35:21,288 : INFO : test_login : Enter Password
+2021-11-10 23:35:21,393 : INFO : test_login : Click Login button
+2021-11-10 23:35:23,747 : INFO : test_login : Enter Username
+2021-11-10 23:35:23,850 : INFO : test_login : Enter Password
+2021-11-10 23:35:23,950 : INFO : test_login : Click Login button
+2021-11-10 23:36:06,544 : INFO : test_login : Enter Username
+2021-11-10 23:36:06,711 : INFO : test_login : Enter Password
+2021-11-10 23:36:06,838 : INFO : test_login : Click Login button
+2021-11-10 23:36:12,699 : INFO : test_login : Click Logout
+2021-11-10 23:36:14,478 : INFO : test_login : Enter Username
+2021-11-10 23:36:14,626 : INFO : test_login : Enter Password
+2021-11-10 23:36:14,741 : INFO : test_login : Click Login button
+2021-11-10 23:36:17,733 : INFO : test_login : Enter Username
+2021-11-10 23:36:17,862 : INFO : test_login : Enter Password
+2021-11-10 23:36:17,982 : INFO : test_login : Click Login button
